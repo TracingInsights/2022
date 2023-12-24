@@ -22,8 +22,9 @@ events = [#'Pre-Season Test',
 # 'Bahrain Grand Prix', 'Saudi Arabian Grand Prix', 
      # 'Australian Grand Prix', 'Emilia Romagna Grand Prix', 'Miami Grand Prix',
     # 'Spanish Grand Prix', 'Monaco Grand Prix', 'Azerbaijan Grand Prix',
-    'Canadian Grand Prix', 'British Grand Prix', 'Austrian Grand Prix',
-    # 'French Grand Prix', 'Hungarian Grand Prix', 'Belgian Grand Prix', 'Dutch Grand Prix', 'Italian Grand Prix', 'Singapore Grand Prix', 'Japanese Grand Prix', 'United States Grand Prix', 'Mexico City Grand Prix', 'São Paulo Grand Prix', 'Abu Dhabi Grand Prix'
+    # 'Canadian Grand Prix', 'British Grand Prix', 'Austrian Grand Prix',
+    'French Grand Prix', 'Hungarian Grand Prix', 'Belgian Grand Prix', 
+    # 'Dutch Grand Prix', 'Italian Grand Prix', 'Singapore Grand Prix', 'Japanese Grand Prix', 'United States Grand Prix', 'Mexico City Grand Prix', 'São Paulo Grand Prix', 'Abu Dhabi Grand Prix'
 ]
          
 
