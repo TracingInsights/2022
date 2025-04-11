@@ -25,7 +25,7 @@ logging.getLogger("fastf1").propagate = False
 # Enable caching
 fastf1.Cache.enable_cache("cache")
 
-DEFAULT_YEAR = 2023
+DEFAULT_YEAR = 2022
 PROTO = "https"
 HOST = "api.multiviewer.app"
 HEADERS = {"User-Agent": f"FastF1/"}
