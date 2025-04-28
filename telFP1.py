@@ -47,26 +47,10 @@ class TelemetryExtractor:
         """Initialize the TelemetryExtractor."""
         self.year = year
         self.events = events or [
-   'Abu Dhabi Grand Prix'
+   'Abu Dhabi Grand Prix',
      'Australian Grand Prix',
-    #  'Austrian Grand Prix',
-     'Azerbaijan Grand Prix',
-     'Bahrain Grand Prix',
-     'Belgian Grand Prix', 
+     
      'British Grand Prix',
-     'Canadian Grand Prix',  
-     'Dutch Grand Prix',
-    #  'Emilia Romagna Grand Prix',
-     'French Grand Prix', 
-     'Hungarian Grand Prix',
-     'Italian Grand Prix', 
-     'Japanese Grand Prix', 
-     'Mexico City Grand Prix', 
-     'Miami Grand Prix',
-     'Monaco Grand Prix', 
-    #  'São Paulo Grand Prix', 
-     'Saudi Arabian Grand Prix',
-     'Singapore Grand Prix', 
      'Spanish Grand Prix', 
      'United States Grand Prix',
 ]
