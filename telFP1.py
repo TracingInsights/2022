@@ -49,25 +49,30 @@ class TelemetryExtractor:
         self.events = (
             events
             or [
+
+                # 'Singapore Grand Prix',
+                                # 'Japanese Grand Prix',
+                                # 'United States Grand Prix',
+                                # 'Mexico City Grand Prix',
                 # 'Bahrain Grand Prix',
                 # 'Saudi Arabian Grand Prix',
                 # 'Australian Grand Prix',
                 # 'Miami Grand Prix',
                 # 'Spanish Grand Prix',
                 # 'Monaco Grand Prix',
-                'Azerbaijan Grand Prix',
-                #'Canadian Grand Prix',
-                #'British Grand Prix',
-                #'French Grand Prix',
-                #'Hungarian Grand Prix',
-                #'Belgian Grand Prix',
-                #'Dutch Grand Prix',
-                #'Italian Grand Prix',
-                #'Singapore Grand Prix',
-                #'Japanese Grand Prix',
-                #'United States Grand Prix',
-                #'Mexico City Grand Prix',
-                # "Abu Dhabi Grand Prix",
+                # 'Azerbaijan Grand Prix',
+                # 'Canadian Grand Prix',
+                # 'British Grand Prix',
+                # 'French Grand Prix',
+                # 'Hungarian Grand Prix',
+                # 'Belgian Grand Prix',
+                # 'Dutch Grand Prix',
+                # 'Italian Grand Prix',
+                
+
+                
+                
+                "Abu Dhabi Grand Prix",
                 # "Emilia Romagna Grand Prix",
                 # "Austrian Grand Prix",
                 # "São Paulo Grand Prix",
