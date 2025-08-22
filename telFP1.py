@@ -72,19 +72,19 @@ class TelemetryExtractor:
 
                 
                 
-                "Abu Dhabi Grand Prix",
+                # "Abu Dhabi Grand Prix",
                 # "Emilia Romagna Grand Prix",
                 # "Austrian Grand Prix",
-                # "São Paulo Grand Prix",
+                "São Paulo Grand Prix",
             ]
         )
         self.sessions = sessions or [
             "Practice 1",
             "Practice 2",
-            "Practice 3",
+            # "Practice 3",
             "Qualifying",
             "Race",
-            # "Sprint",
+            "Sprint",
         ]
 
     def get_session(
