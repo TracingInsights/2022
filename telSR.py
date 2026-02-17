@@ -52,8 +52,8 @@ TARGET_EVENT_NAMES_LIST = [
 
 # sprints below
 # 'Austrian Grand Prix',
-'Emilia Romagna Grand Prix',
-# 'São Paulo Grand Prix', 
+# 'Emilia Romagna Grand Prix',
+'São Paulo Grand Prix', 
 ]
 if len(TARGET_EVENT_NAMES_LIST) != 1:
     raise ValueError(
@@ -1019,4 +1019,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
