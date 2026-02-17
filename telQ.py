@@ -40,14 +40,14 @@ TARGET_EVENT_NAMES_LIST = [
 #      'Dutch Grand Prix',     
 #      'French Grand Prix', 
 #      'Hungarian Grand Prix',
-     'Italian Grand Prix', 
+    #  'Italian Grand Prix', 
 #      'Japanese Grand Prix', 
 #      'Mexico City Grand Prix', 
 #      'Miami Grand Prix',
 #      'Monaco Grand Prix',      
 #      'Saudi Arabian Grand Prix',
 #      'Singapore Grand Prix', 
-#      'Spanish Grand Prix', 
+     'Spanish Grand Prix', 
 #      'United States Grand Prix',
 
 # sprints below
