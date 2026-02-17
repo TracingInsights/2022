@@ -31,14 +31,14 @@ DEFAULT_YEAR = 2022
 # Keep exactly one uncommented event in this list.
 TARGET_EVENT_NAMES_LIST = [
 #    'Abu Dhabi Grand Prix'
-     'Australian Grand Prix',     
+    #  'Australian Grand Prix',     
 #      'Azerbaijan Grand Prix',
 #      'Bahrain Grand Prix',
 #      'Belgian Grand Prix', 
 #      'British Grand Prix',
 #      'Canadian Grand Prix',  
 #      'Dutch Grand Prix',     
-#      'French Grand Prix', 
+     'French Grand Prix', 
 #      'Hungarian Grand Prix',
 #      'Italian Grand Prix', 
 #      'Japanese Grand Prix', 
